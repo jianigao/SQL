@@ -1,1 +1,3 @@
-Summarized useful commands and queries for SQL.
+## SQL
+
+Execute all kinds of SQL queries using Python.
